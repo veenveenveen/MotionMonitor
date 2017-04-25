@@ -6,6 +6,8 @@
 //  Copyright © 2017年 黄启明. All rights reserved.
 //
 
+//读取加速计数据，陀螺仪数据，已经方位信息并在屏幕中显示出来
+
 import UIKit
 
 @UIApplicationMain
