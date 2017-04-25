@@ -302,6 +302,7 @@
 				E20C032C1EAEF3B40028E6C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
